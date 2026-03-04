@@ -1,7 +1,6 @@
 from colorama import Fore, Style, init
-
-# initialize Colorama
 init(autoreset=True)
+
 def print_menu():
     print(Fore.CYAN + "\n====================")
     print("     HABIT TRACKER")

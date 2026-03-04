@@ -1,17 +1,8 @@
-# Python
 __pycache__/
+.venv/
+.idea/
 *.py[cod]
 *.pyo
 *.pyd
-
-# Virtual environment
-.venv/
-env/
-venv/
-
-# PyCharm
-.idea/
-
-# Misc
 *.log
 *.sqlite3

@@ -1,4 +1,4 @@
-from habits import add_habits, complete_habit, delete_habit
+from habits import add_habits, complete_habit, delete_habit, reset_daily
 from storage import load_habits
 from ui import show_habits, print_menu
 
